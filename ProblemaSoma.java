@@ -8,6 +8,8 @@ import java.util.Scanner;
  * dos números impares informados. Assuma que todos os números fornecidos pelo
  * usuário serão inteiros válidos e que as somas nunca serão superiores a um
  * número inteiro de 32 bits.
+ * 
+ * https://adonaimedrado.pro.br/documentos/53_Problemas_de_Programacao.pdf
  */
 
 public class ProblemaSoma {
