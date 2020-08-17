@@ -10,7 +10,7 @@ import java.util.Scanner;
  * número inteiro de 32 bits.
  * 
  * https://adonaimedrado.pro.br/documentos/53_Problemas_de_Programacao.pdf
- */
+*/
 
 public class ProblemaSoma {
     
